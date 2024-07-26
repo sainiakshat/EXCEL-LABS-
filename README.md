@@ -1,2 +1,2 @@
-# EXCEL-LABS-
-Excel functions like IF can be combined with AND and OR to create more complex logical formulas. For example, you can use IF with AND to test multiple conditions that must all be true for a specific outcome, or IF with OR to test if at least one of several conditions is true.
+Akshat Saini's Excel Labs
+Hi, I'm Akshat Saini, an Excel enthusiast and data analyst. I've recently completed several labs on Microsoft Excel and created this repository to showcase my work and share what I've learned about various Excel functions.
